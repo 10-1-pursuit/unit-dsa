@@ -10,7 +10,7 @@ There will always be a base problem that you should be able to solve (or be real
 
 ## Trivia Questions
 
-Write an answer somewhere that you can easily use for reference later (make a [mardkdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) file or a word doc, or use the notes app, etc. ) to practice talking/writing about code:
+Write an answer somewhere that you can easily use for reference later (make a [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) file or a word doc, or use the notes app, etc. ) to practice talking/writing about code:
 
 - What is the difference between a parameter and an argument?
 - What is the difference between `var`, `const`, and `let`?
