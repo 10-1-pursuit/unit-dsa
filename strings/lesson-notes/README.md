@@ -107,7 +107,7 @@ These are helpful methods to know. By now, it doesn't mean memorizing! It just m
 - substring - returns a portion o a string based on length
 - toString - converts other data types (i.e., numbers) to strings
 - trim - removes whitespace from the ends of a string
-- JSON.stringify() - converts JSON to a string
+- JSON.stringify() - converts JS to a JSON string
 
 Regular Expression methods
 
