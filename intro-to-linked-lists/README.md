@@ -173,7 +173,7 @@ Hopefully, this has been a helpful introduction. However, one question remains: 
 
 ## Lab:
 
-[Linked List Practice](https://github.com/joinpursuit/m6-linked-list-practice)
+[Linked List Practice](https://github.com/10-1-pursuit/lab-intro-to-linked-lists)
 
 ## Further Reading
 
