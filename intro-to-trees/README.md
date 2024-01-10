@@ -94,9 +94,6 @@ Next, complete the two exercises below this.
 
 - Answer the same questions above for the number 15. How do your answers compare?
 
-## Lab
-
-- [Complete this repository and submit to Canvas](https://github.com/9-1-pursuit/lab-intro-to-trees)
 
 ## More problems
 
